@@ -25,7 +25,7 @@
         <label for="paragraph" class="form-label">Paragraph</label>
         <input type="text" name="paragraph" id="paragraph" class="form-control" placeholder="lorem ipsum dolor" aria-describedby="helpId">
         <label for="badwords" class="form-label">badwords</label>
-        <input type="text" name="badwords" id="badwords" class="form-control" placeholder="mussolini" aria-describedby="helpId">
+        <input type="text" name="badwords" id="badwords" class="form-control" placeholder="parolaccia" aria-describedby="helpId">
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
   
